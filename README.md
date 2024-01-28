@@ -7,7 +7,7 @@ This is a simple web application for booking travel.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/AlikhanKrykbes/web-back.git
+   git clone https://github.com/AlikhanKrykbes/web2.git
 
 2. Move into the project directory:
 
